@@ -1,0 +1,11 @@
+C:\Users\david\Desktop\StarR\pro-asp.net-core-mvc-2-master\02 - Your First MVC Application\PartyInvites\PartyInvites\bin\Debug\netcoreapp2.0\PartyInvites.deps.json
+C:\Users\david\Desktop\StarR\pro-asp.net-core-mvc-2-master\02 - Your First MVC Application\PartyInvites\PartyInvites\bin\Debug\netcoreapp2.0\PartyInvites.runtimeconfig.json
+C:\Users\david\Desktop\StarR\pro-asp.net-core-mvc-2-master\02 - Your First MVC Application\PartyInvites\PartyInvites\bin\Debug\netcoreapp2.0\PartyInvites.runtimeconfig.dev.json
+C:\Users\david\Desktop\StarR\pro-asp.net-core-mvc-2-master\02 - Your First MVC Application\PartyInvites\PartyInvites\bin\Debug\netcoreapp2.0\PartyInvites.dll
+C:\Users\david\Desktop\StarR\pro-asp.net-core-mvc-2-master\02 - Your First MVC Application\PartyInvites\PartyInvites\bin\Debug\netcoreapp2.0\PartyInvites.pdb
+C:\Users\david\Desktop\StarR\pro-asp.net-core-mvc-2-master\02 - Your First MVC Application\PartyInvites\PartyInvites\obj\Debug\netcoreapp2.0\PartyInvites.csprojAssemblyReference.cache
+C:\Users\david\Desktop\StarR\pro-asp.net-core-mvc-2-master\02 - Your First MVC Application\PartyInvites\PartyInvites\obj\Debug\netcoreapp2.0\PartyInvites.csproj.CoreCompileInputs.cache
+C:\Users\david\Desktop\StarR\pro-asp.net-core-mvc-2-master\02 - Your First MVC Application\PartyInvites\PartyInvites\obj\Debug\netcoreapp2.0\PartyInvites.AssemblyInfoInputs.cache
+C:\Users\david\Desktop\StarR\pro-asp.net-core-mvc-2-master\02 - Your First MVC Application\PartyInvites\PartyInvites\obj\Debug\netcoreapp2.0\PartyInvites.AssemblyInfo.cs
+C:\Users\david\Desktop\StarR\pro-asp.net-core-mvc-2-master\02 - Your First MVC Application\PartyInvites\PartyInvites\obj\Debug\netcoreapp2.0\PartyInvites.dll
+C:\Users\david\Desktop\StarR\pro-asp.net-core-mvc-2-master\02 - Your First MVC Application\PartyInvites\PartyInvites\obj\Debug\netcoreapp2.0\PartyInvites.pdb
